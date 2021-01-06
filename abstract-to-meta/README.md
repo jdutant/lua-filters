@@ -5,6 +5,14 @@ metadata. Metadata elements usually allow for finer placement
 control in the final output, but writing body text is easier and
 more natural.
 
+## Features to be added
+
+* keywords
+* disable to-meta with a class
+* fill in the manual
+  - explain horizontal rule ending
+  - say that this allows entering metadata in MS Word
+
 ## Defining an Abstract
 
 A document abstract can either be put directly in the document
